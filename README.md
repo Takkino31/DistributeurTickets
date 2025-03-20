@@ -82,11 +82,11 @@ Votre choix : 1
 Entrez votre numéro de compte : 123456
 Entrez votre nom : TAKKINO
 Entrez votre prénom : Yaya
-✅ Votre numéro est V-1. Il y a 0 personne(s) avant vous.
+Votre numéro est V-1. Il y a 0 personne(s) avant vous.
 
 Voulez-vous prendre un autre numéro ? (O/N) : N
 
-📜 Liste des clients enregistrés :
+Liste des clients enregistrés :
 TAKKINO Yaya - Compte: 123456 - Ticket: V-1
 
 👋 Merci d'avoir utilisé notre service !
@@ -103,6 +103,9 @@ Ce projet est sous licence MIT. Tu peux l'utiliser et le modifier librement.
 📧 Email : [takkinoyaya@gmail.com](mailto:takkinoyaya@gmail.com)  
 📌 GitHub : [Takkino31](https://github.com/Takkino31)  
 ```
+Mail : takkinoyaya@gmail.com
+Github: https://github.com/Takkino31
+Linkedin : https://www.linkedin.com/in/yaya-elimane-var-a15722174/
 
 ---
 
